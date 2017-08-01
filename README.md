@@ -1,6 +1,6 @@
 # hello-world
-My first repository
 
-Hi
+
+hello
 My name is Julia!
 I like HTML/CSS/JAVASCRIPT
